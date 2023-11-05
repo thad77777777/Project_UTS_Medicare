@@ -22,6 +22,6 @@ Tutorial Membuat
 Tata cara pake Git
 -
 
-- Clone repo <code>git clone https://github.com/ledleledle/RekamMedis.git</code>
+- Clone repo <code>git clone https://github.com/ledleledle/RekamMedis.git](https://github.com/thad77777777/Project_UTS_Medicare.git</code>
 - Pantau update dengan <code>git fetch</code>
 - Dan dapatkan update dengan <code>git merge</code>
